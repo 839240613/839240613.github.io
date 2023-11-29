@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bf07c740","path":"/My_wholeLife.html","title":"博主介绍","lang":"zh-CN","frontmatter":{"title":"博主介绍","icon":"person-chalkboard","layout":"Slide"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":10.99,"words":3298},"filePathRelative":"My_wholeLife.md","excerpt":""}');export{e as data};
