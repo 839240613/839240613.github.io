@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-115dc06b","path":"/bookList/Communication_principle/","title":"Communication Principle","lang":"zh-CN","frontmatter":{"title":"Communication Principle","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

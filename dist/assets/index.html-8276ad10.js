@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-48298ee4","path":"/bookList/conplie/","title":"Conplie","lang":"zh-CN","frontmatter":{"title":"Conplie","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

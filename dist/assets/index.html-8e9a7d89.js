@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-92014e96","path":"/bookList/Poor%20dad%20and%20rich%20dad/","title":"Poor Dad And Rich Dad","lang":"zh-CN","frontmatter":{"title":"Poor Dad And Rich Dad","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

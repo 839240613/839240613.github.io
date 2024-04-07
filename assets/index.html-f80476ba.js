@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-69e02d0b","path":"/bookList/Singe_chip/","title":"Singe Chip","lang":"zh-CN","frontmatter":{"title":"Singe Chip","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

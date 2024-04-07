@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-65c643ce","path":"/bookList/Electrical%20Engineering%20101/","title":"Electrical Engineering 101","lang":"zh-CN","frontmatter":{"title":"Electrical Engineering 101","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

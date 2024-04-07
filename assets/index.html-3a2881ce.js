@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ec452ec2","path":"/bookList/comunication/","title":"Comunication","lang":"zh-CN","frontmatter":{"title":"Comunication","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
